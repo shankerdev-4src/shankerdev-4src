@@ -40,23 +40,19 @@ Each challenge teaches me something new, and every day I grow a little further a
 ## ✨ What I Focus On
 - ⚡ **Full Stack Web Development** - 🔗 **REST API Design** - 🗄️ **Database Optimization** - 🧠 **Problem Solving** - 📈 **Scalable System Thinking** ---
 
-## 📊 GitHub Stats
+---
+## 📊 GitHub Stats:
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shankerdev-4src&show_icons=true&title_color=6C21FF&icon_color=6C21FF&text_color=444444&bg_color=ffffff00&hide_border=true" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=shankerdev-4src&theme=white&hide_border=true&ring=6C21FF&fire=6C21FF&currStreakLabel=6C21FF&background=ffffff00" width="48%"/>
-</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shankerdev-4src&layout=compact&hide_border=true&title_color=6C21FF&text_color=444444&bg_color=ffffff00" width="45%"/>
-</p>
+![](https://github-readme-stats.vercel.app/api?username=shankerdev-4src&theme=github_dark_dimmed&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=shankerdev-4src&theme=github_dark_dimmed&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=shankerdev-4src&theme=github_dark_dimmed&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 ---
 
 ## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shankerdev-4src&theme=flat&no-frame=true&column=6&margin-w=12"/>
-</p>
+![](https://github-profile-trophy.vercel.app/?username=shankerdev-4src&theme=discord_old_blurple&no-frame=false&no-bg=false&margin-w=4)
+
 
 ---
 
