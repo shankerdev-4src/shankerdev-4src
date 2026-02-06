@@ -1,18 +1,77 @@
-# 💫 About Me:
-From ideas to execution, from problems to solutions, I write code that works with purpose and intent.<br>Each challenge teaches me something new, and every day I grow a little further as a developer.
+<!-- Animated Header -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=220&section=header&text=Shanker%20Dev&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+</p>
 
-
-# 💻 Tech Stack:
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=flat&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=shankerdev-4src&theme=github_dark_dimmed&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=shankerdev-4src&theme=github_dark_dimmed&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=shankerdev-4src&theme=github_dark_dimmed&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=shankerdev-4src&theme=discord_old_blurple&no-frame=false&no-bg=false&margin-w=4)
+<!-- Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Problem+Solver+%26+Tech+Enthusiast;Turning+Ideas+Into+Scalable+Code;Always+Learning%2C+Always+Building" />
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=shankerdev-4src&icon=1&color=1)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 💫 About Me
+✨ From **ideas to execution**, from **problems to solutions**, I write code that works with **purpose and intent**.  
+🧠 Every challenge sharpens my skills, and every day I grow a little further as a developer.  
+🚀 Passionate about building **scalable**, **efficient**, and **impact-driven** software.
+
+---
+
+## ⚙️ Tech Stack (Animated Badges)
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,django,mongodb,mysql,sqlite,python,js,php,java,c,cpp,html,css&perline=8" />
+
+</p>
+
+---
+
+## 🚀 What I Work With
+- 🔹 **Frontend**: React, HTML5, CSS3, JavaScript  
+- 🔹 **Backend**: Node.js, Express.js, Django, Django REST  
+- 🔹 **Databases**: MongoDB, MySQL, SQLite  
+- 🔹 **Languages**: Python, JavaScript, Java, C, C++, PHP  
+- 🔹 **Mindset**: Clean Code • Performance • Scalability  
+
+---
+
+## 📊 GitHub Stats (Live & Animated)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shankerdev-4src&theme=github_dark_dimmed&show_icons=true&hide_border=true" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=shankerdev-4src&theme=github_dark_dimmed&hide_border=true" width="48%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shankerdev-4src&layout=compact&theme=github_dark_dimmed&hide_border=true" width="45%"/>
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=shankerdev-4src&theme=discord&no-frame=true&margin-w=10"/>
+</p>
+
+---
+
+## 👀 Profile Views
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=shankerdev-4src&icon=5&color=12" />
+</p>
+
+---
+
+## 🌱 Currently Growing In
+- Advanced Backend Architecture  
+- System Design Basics  
+- Clean API Design  
+- Performance Optimization  
+
+---
+
+<!-- Footer -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2a5298,100:1e3c72&height=120&section=footer"/>
+</p>
