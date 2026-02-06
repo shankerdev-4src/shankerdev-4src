@@ -1,67 +1,87 @@
-<!-- Header with Orange Fluid Animation -->
+<!-- HEADER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=230&text=Shanker%20Dev&fontSize=48&fontColor=1c1c1c&animation=fadeIn&fontAlignY=35&color=0:FFD43B,50:FF9F1C,100:F77F00"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&text=Shanker%20Dev&fontSize=46&fontColor=1c1c1c&animation=fadeIn&fontAlignY=35&color=0:FFD43B,50:FF9F1C,100:F77F00"/>
 </p>
 
-<!-- Typing Animation (Warm Colors) -->
+<!-- TYPING -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=700&color=FF9F1C&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Turning+Ideas+Into+Real+Products;Clean+Code+%7C+Scalable+Systems;Always+Learning.+Always+Building."/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=2800&pause=700&color=F77F00&center=true&vCenter=true&width=720&lines=Full+Stack+Developer;Building+Scalable+Web+Applications;Clean+Code+%7C+Smart+Architecture;Learning+Every+Single+Day"/>
 </p>
 
 ---
 
 ## 💫 About Me
-🌞 From **ideas to execution**, from **problems to solutions**, I write code that delivers **real impact**.  
-🔥 I enjoy solving complex problems and crafting software that is **clean, scalable, and efficient**.  
-📈 Every project pushes me forward — technically and creatively.
+I’m a **Full Stack Developer** who enjoys transforming ideas into  
+🔥 **high-performance**, **scalable**, and **maintainable** software.  
+
+I focus on:
+- writing clean code  
+- solving real-world problems  
+- continuously improving my system design skills  
 
 ---
 
-## ⚙️ Tech Stack
+## ⚙️ Tech Stack (Spaced & Organized)
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,django,mongodb,mysql,sqlite,python,js,php,java,c,cpp,html,css&theme=light&perline=8"/>
+### 🖥️ Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=react,html,css,js&perline=6" />
+</p>
+
+### 🧠 Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,django&perline=6" />
+</p>
+
+### 🗄️ Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite&perline=6" />
+</p>
+
+### 🧩 Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,php,c,cpp&perline=7" />
 </p>
 
 ---
 
-## 🚀 What I Do Best
-- ⚡ Full Stack Web Development  
-- 🧠 Backend APIs & Architecture  
-- 🗄️ Database Design & Optimization  
-- 🎨 Frontend Performance & UX  
-- 🔐 Clean, Maintainable Code  
+## ✨ Key Features & Strengths
+- ⚡ REST API Development  
+- 🧱 Modular & Scalable Architecture  
+- 🔐 Secure Backend Logic  
+- 📊 Database Optimization  
+- 🎯 Performance-Focused Design  
 
 ---
 
-## 📊 GitHub Performance
+## 📊 GitHub Performance (FIXED)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shankerdev-4src&show_icons=true&theme=transparent&title_color=FF9F1C&icon_color=FFD43B&text_color=1c1c1c&hide_border=true" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=shankerdev-4src&theme=transparent&ring=FF9F1C&fire=F77F00&currStreakLabel=FF9F1C&hide_border=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=shankerdev-4src&show_icons=true&title_color=F77F00&icon_color=FFD43B&text_color=1c1c1c&hide_border=true&bg_color=00000000" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=shankerdev-4src&hide_border=true&background=FFFFFF00&stroke=F77F00&ring=FF9F1C&fire=F77F00&currStreakLabel=F77F00" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shankerdev-4src&layout=compact&theme=transparent&title_color=FF9F1C&text_color=1c1c1c&hide_border=true" width="45%"/>
-</p>
-
----
-
-## 🏆 Achievements
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shankerdev-4src&theme=flat&column=7&margin-w=10&no-frame=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shankerdev-4src&layout=compact&hide_border=true&title_color=F77F00&text_color=1c1c1c&bg_color=00000000" width="45%" />
 </p>
 
 ---
 
-## 👀 Profile Views
+## 🏆 Achievements (WORKING)
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=shankerdev-4src&icon=2&color=12"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=shankerdev-4src&theme=flat&no-frame=true&column=6&margin-w=12" />
 </p>
 
 ---
 
-<!-- Footer -->
+## 👀 Profile Views (WORKING)
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:F77F00,50:FF9F1C,100:FFD43B"/>
+  <img src="https://komarev.com/ghpvc/?username=shankerdev-4src&label=Profile+Views&color=FF9F1C&style=flat" />
+</p>
+
+---
+
+<!-- FOOTER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:F77F00,50:FF9F1C,100:FFD43B"/>
 </p>
